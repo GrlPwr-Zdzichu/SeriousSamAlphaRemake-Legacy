@@ -1,6 +1,6 @@
 # Serious Sam Alpha Remake
 
-This is the official source code repository for **Serious Sam Alpha Remake** modification. This mod has now been discontinued and the last change to the code has been made on August 20th, 2020.
+This is the **official source code** repository for **Serious Sam Alpha Remake** modification. This mod has now been discontinued and the last change to the code has been made on August 20th, 2020.
 
 It is based on the original SDK for **Serious Sam: The First Encounter v1.05** by Croteam.
 
