@@ -22,3 +22,7 @@ The built DLL files will be automatically copied into `$(ENGINE_DIR)\Bin` (or in
 # License
 
 Both **Serious Sam Alpha Remake** source code and [**Serious Engine 1**](https://github.com/Croteam-official/Serious-Engine) are licensed under GNU GPL v2 (see LICENSE file).
+
+# Screenshots
+<img src="https://i.imgur.com/CtYbfBH.png">
+<img src="https://i.imgur.com/I3R5cWH.pngg">
