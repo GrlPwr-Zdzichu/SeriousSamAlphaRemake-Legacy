@@ -42,7 +42,7 @@ That was when I had personal problems and didn't have time to deal with them. Bu
 
 ## Where I can follow the development of new Alpha Remake?
 
-Check out my Itch.io blog for devlogs and additional previews of new project.
+Check out my [**Itch.io**](https://grlpwr-zdzichu.itch.io/) for insight of the new project.
 </details>
 
 # Building
